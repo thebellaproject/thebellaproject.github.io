@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Hello World 
 
 [Hello world](/Hello_World.ipynb)
 <img src="images/isaac.png?raw=true"/>
