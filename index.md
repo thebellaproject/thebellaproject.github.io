@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hello world](/Hello_World.ipynb)
+<img src="images/isaac.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
